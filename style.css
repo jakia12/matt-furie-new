@@ -2219,7 +2219,7 @@ p {
   top: -3.5em;
 }
 .hero-img {
-  background-color: var(--black);
+  background-color: #f5cd52;
   object-fit: cover;
   flex-direction: column;
   justify-content: flex-end;
@@ -2431,6 +2431,7 @@ p {
   width: 100%;
   height: 30em;
   padding: 0;
+  background-color: #59b3de;
 }
 .footer-column.border {
   border-left: 1px solid #fff3;
