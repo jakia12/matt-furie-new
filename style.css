@@ -2605,6 +2605,7 @@ p {
 }
 .hero-character.no-pointer {
   inset: 0%;
+  top:20%;
 }
 .double-paragraph-wrapper {
   grid-column-gap: 2em;
@@ -3339,7 +3340,7 @@ p {
     width: 38em;
   }
   .hero-character.no-pointer {
-    top: 12%;
+    top: 34%;
   }
   .double-paragraph-wrapper {
     grid-row-gap: 3em;
