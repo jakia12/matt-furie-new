@@ -2594,7 +2594,7 @@ p {
 .hero-character {
   z-index: 10;
   margin-top: 10%;
-  width: 580px;
+  width: 700px;
   max-width: none;
   height: auto;
   margin-left: auto;
@@ -2605,7 +2605,7 @@ p {
 }
 .hero-character.no-pointer {
   inset: 0%;
-  top:20%;
+  top:7%;
 }
 .double-paragraph-wrapper {
   grid-column-gap: 2em;
