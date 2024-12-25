@@ -1816,7 +1816,7 @@ textarea.w-select {
 :root {
   --black: black;
   --white: white;
-  --primary-color: #d9434a;
+  --primary-color: #ff0600;
 }
 h1 {
   color: var(--black);
@@ -2648,7 +2648,7 @@ p {
   overflow: hidden;
 }
 .hero-shape {
-  background-color: #d9434a;
+  background-color: #ff0600;
   width: 50%;
   position: absolute;
   inset: 0% auto 0% 0%;
