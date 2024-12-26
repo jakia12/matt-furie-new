@@ -1859,7 +1859,7 @@ p {
 .spacer {
   justify-content: flex-start;
   align-items: center;
-  width: 33.3333%;
+  /* width: 33.3333%; */
   display: flex;
   position: relative;
 }
@@ -1908,7 +1908,15 @@ p {
 .link-text {
   color: var(--white);
   font-family: IBM Plex Mono, sans-serif;
-  font-size: 1.1em;
+  font-size: .7em;
+  font-weight: 500;
+  line-height: 1;
+  text-decoration: none;
+}
+.link-text.link-text2 {
+  color: var(--white);
+  font-family: IBM Plex Mono, sans-serif;
+  font-size: 1em;
   font-weight: 500;
   line-height: 1;
   text-decoration: none;
