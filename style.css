@@ -1873,7 +1873,7 @@ p {
 .spacer.flex-center {
   justify-content: center;
   align-items: center;
-  width: 33.3333%;
+  /* width: 33.3333%; */
   display: flex;
 }
 .spacer.footer {
